@@ -1,0 +1,38 @@
+body {
+
+}
+
+/*variables*/
+$main-color: #215d8a;
+$secondary-color: #7DCADA;
+
+.mtg-menu {
+  background: $main-color;
+  padding: 30px 0;
+  ul {
+    margin: 0;
+    list-style: none;
+
+    li {
+      display: inline-block;
+      color: #FFFFFF;
+
+      span {
+        color: $secondary-color;
+      }
+
+    }
+  }
+}
+
+.mtg-slider-container {
+  width: 100%;
+  margin: 0 -15px;
+  padding: 0;
+
+  .slide-1 {
+    img {
+      width: 100%;
+    }
+  }
+}

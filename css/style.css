@@ -1,0 +1,21 @@
+/*variables*/
+.mtg-menu {
+  background: #215d8a;
+  padding: 30px 0; }
+  .mtg-menu ul {
+    margin: 0;
+    list-style: none; }
+    .mtg-menu ul li {
+      display: inline-block;
+      color: #FFFFFF; }
+      .mtg-menu ul li span {
+        color: #7DCADA; }
+
+.mtg-slider-container {
+  width: 100%;
+  margin: 0 -15px;
+  padding: 0; }
+  .mtg-slider-container .slide-1 img {
+    width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
